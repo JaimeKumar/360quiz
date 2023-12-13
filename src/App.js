@@ -11,12 +11,6 @@ export default function App() {
       a: null
     },
     {
-      q: "What is the flying time between Abu Dhabi and Dubai?",
-      options: ["1 Hour", "2 Hours", "There are no flights between Abu Dhabi and Dubai", "6 Hours"],
-      correct: 0,
-      a: null
-    },
-    {
       q: "To fly from London to Brisbane indirect which is the best connecting point from the below:",
       options: ["New York", "Johannesburg", "Singapore", "Glasgow"],
       correct: 2,
