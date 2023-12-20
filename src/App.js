@@ -53,6 +53,12 @@ export default function App() {
       a: null
     },
     {
+      q: "John Smith departs London for New York at 8.20am (London time) on 30th January, the flight is 8 hours 5 minutes long. New York is 5 hours behind London, what will be the local time when the flight lands in New York?",
+      options: ["2pm", "11:25pm", "11:25am", "6pm"],
+      correct: 2,
+      a: null
+    },
+    {
       q: "Which Airline Alliance does Royal Air Maroc belong to?",
       options: ["Skyteam", "Star Alliance", "Oneworld", "They don't belong to an alliance"],
       correct: 2,
@@ -62,6 +68,13 @@ export default function App() {
       q: "Which UK travel trade licence does NOT protect customers money for an airline ticket purchased through a travel agent?",
       options: ["ABTA", "IATA", "ATOL", "They all do"],
       correct: 1,
+      a: null
+    },
+    {
+      q: "John Smith departs London for Auckland at 10pm London time on 29th December with a flight change in Dubai. Flight durations are as follows:",
+      extra: ["London-Dubai, 6 hours 45 minutes", "Transit time in Dubai is 1 hour 20 minutes", "Dubai-Auckland 16 hours", " ", "Auckland is 13 hours ahead of London, what will be the local time when the flight lands in Auckland?"],
+      options: ["11.05pm on 29th December", "11.05am on 30th December", "11.05am on 31st December", "11.05pm on 30th December"],
+      correct: 2,
       a: null
     },
     {
