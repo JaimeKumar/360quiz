@@ -72,7 +72,7 @@ export default function App() {
     },
     {
       q: "John Smith departs London for Auckland at 10pm London time on 29th December with a flight change in Dubai. Flight durations are as follows:",
-      extra: ["London-Dubai, 6 hours 45 minutes", "Transit time in Dubai is 1 hour 20 minutes", "Dubai-Auckland 16 hours", " ", "Auckland is 13 hours ahead of London, what will be the local time when the flight lands in Auckland?"],
+      extra: ["London-Dubai, 6 hours 45 minutes", "Dubai-Auckland 16 hours", " ", "Transit time in Dubai is 1 hour 20 minutes", " ", "Auckland is 13 hours ahead of London, what will be the local time when the flight lands in Auckland?"],
       options: ["11.05pm on 29th December", "11.05am on 30th December", "11.05am on 31st December", "11.05pm on 30th December"],
       correct: 2,
       a: null
