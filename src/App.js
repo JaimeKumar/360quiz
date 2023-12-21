@@ -30,7 +30,7 @@ export default function App() {
     },
     {
       q: "In aviation what does SAF stand for?",
-      options: ["Super Aviation Fuel", "Sustainable Aviation Fuel", "Sustainable Aviation Fuel"],
+      options: ["Super Aviation Fuel", "Sustainable Aviation Fuel", "Second Aviation Fuel"],
       correct: 1,
       a: null
     },
