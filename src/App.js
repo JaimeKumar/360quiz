@@ -29,6 +29,18 @@ export default function App() {
       a: null
     },
     {
+      q: "In aviation what does SAF stand for?",
+      options: ["Super Aviation Fuel", "Sustainable Aviation Fuel", "Sustainable Aviation Fuel"],
+      correct: 1,
+      a: null
+    },
+    {
+      q: "What is the capital of Brazil",
+      options: ["Sau Paulo", "Brasilia", "Rio de Janeiro", "Salvador"],
+      correct: 1,
+      a: null
+    },
+    {
       q: "What is 'Z' in the NATO phonetic alphabet?",
       options: ["Zebra", "Zulu", "Zanzibar", "Zoo"],
       correct: 1,
